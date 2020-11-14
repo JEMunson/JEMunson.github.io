@@ -1,9 +1,20 @@
 body {
+
   background-color: lightblue;
 }
 
 h1 {
   color: navy;
   margin-left: 20px;
+}
+
+ul {
+    color: red;
+    margin-left: 45px;
+}
+
+p1{
+        color: green;
+        margin-left: 20px;
 }
 </body>
